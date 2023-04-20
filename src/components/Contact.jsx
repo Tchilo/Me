@@ -1,4 +1,3 @@
-import React from 'react'
 import contact from '../assets/messaging.svg';
 import newMessage from '../assets/newMessage.svg'
 import { FaLinkedinIn } from 'react-icons/fa';
