@@ -10,7 +10,7 @@ const Navbar = () => {
     setNav(!nav)
   }
   return (
-    <div className="fixed w-full h-20 shadow-xl z-[100] mb-96 bg-[#ecf0f3]">
+    <div className="fixed w-full h-16 py-3 shadow-xl z-[100] mb-96 bg-[#ecf0f3]">
       <div className='container mx-auto px-6 lg:px-0'>
       <div className="flex justify-between items-center w-full h-full px-2 2xl:px-16">
         <Link to='/'>
