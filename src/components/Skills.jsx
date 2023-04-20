@@ -13,7 +13,7 @@ import fire from '../assets/skills/firebase.png'
 
 const Skills = () => {
   return (
-    <div id="Skills" className="p-5 mt-[70px]">
+    <div id="Skills" className="p-5 mt-[70px] mb-20 ">
       <div className="md:text-center">
         <span className='uppercase text-xl tracking-widest text-[#5651e5]' >Skills</span>
         <h2 className="py-4">What I can do</h2>
